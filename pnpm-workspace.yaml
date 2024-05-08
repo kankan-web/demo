@@ -1,0 +1,5 @@
+packages:
+# packages的子目录
+  - 'packages/*'
+# utils下的所有目录
+  - 'utils/**'
